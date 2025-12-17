@@ -1,8 +1,6 @@
 # Prompt vs. Context Engineer
 
-![App Screenshot](screenshot.png)
-
-> **Note:** Please add a screenshot of the application named `screenshot.png` to the root of the repository to display the banner above.
+<img src="screenshot.png" alt="App Screenshot" width="100%">
 
 A comparative tool to visualize the impact of prompt engineering versus context-rich instructions on LLM outputs, token usage, and operational costs.
 
