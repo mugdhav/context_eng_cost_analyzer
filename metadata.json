@@ -1,0 +1,5 @@
+{
+  "name": "Prompt vs. Context Engineer",
+  "description": "A comparative tool to visualize the impact of prompt engineering versus context-rich instructions on LLM outputs and token usage.",
+  "requestFramePermissions": []
+}
